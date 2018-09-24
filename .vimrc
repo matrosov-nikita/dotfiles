@@ -21,3 +21,4 @@ set incsearch
 
 "mappings
 map <C-n> :NERDTreeToggle<CR>
+map gd :GoDef<CR>
